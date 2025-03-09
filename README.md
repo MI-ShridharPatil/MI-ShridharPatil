@@ -15,49 +15,6 @@ Hello! I'm **Shridhar Patil**, a **Backend Developer & Technical Consultant** wi
 
 🚀 Currently, I am exploring advanced **Salesforce development** while continuing to enhance my expertise in **Laravel** and backend system architecture.
 
----
-
-## 🎓 Education
-
-📚 **Master of Science in Computer Science (MSc)**  
-🏛️ Shivaji University | 🏆 CGPA: 8.21 | 📅 2022 - 2024  
-
-📚 **Bachelor of Science in Computer Science (BSc)**  
-🏛️ Shivaji University | 🏆 CGPA: 8.34 | 📅 2019 - 2022  
-
----
-
-## 💼 Work Experience
-
-### 🔹 **Technical Consultant (PHP)**
-📍 *Tribeappsoft India LLP* | 📆 Jan 2025 - Aug 2024  
-- 🛠️ Developed & maintained **Laravel-based** applications and APIs.  
-- 🔗 Integrated **custom backend solutions** for seamless data management.  
-- 📊 Optimized database performance and query efficiency.
-
-### 🔹 **Technical Consultant (PHP)**
-📍 *Cinch IT Solutions* | 📆 Jul 2024 - May 2024  
-- 🚀 Improved **core PHP** application performance by **20%**.  
-- 📊 Ensured high scalability and enhanced system efficiency.  
-
----
-
-## 🔨 Projects
-
-### 🟢 **WhatsApp Integration APIs**
-🔹 **Tech Stack**: PHP, JavaScript, SQL, Laravel  
-✅ Integrated **WhatsApp Business API** for automated customer interactions, reducing manual efforts by **25%**.  
-✅ Improved **real-time messaging**, enhancing customer support response times by **20%**.  
-✅ Designed a **notification system** to boost user engagement.  
-
-### 🟠 **Mahalaxmi Glass**
-🔹 **Tech Stack**: PHP, Laravel, React.js, SQL  
-✅ Automated **sales reporting**, reducing reporting time by **30%**.  
-✅ Enhanced **database performance** for managing large-scale client data.  
-✅ Developed **financial year management tools** for smoother business operations.
-
----
-
 ## 🛠 Skills & Technologies
 
 ### **👨‍💻 Backend Development**
@@ -80,15 +37,10 @@ Hello! I'm **Shridhar Patil**, a **Backend Developer & Technical Consultant** wi
 ## 🎓 Certifications & Achievements
 
 - 🏅 **Salesforce Platform Developer I** *(In Progress)*  
-- 🏅 **Salesforce AI Associate Certified ** 
-- 🎖️ **Typing English 30/40**  
-- 🏆 **MSCIT Certified**  
-- 🎨 **Design (Figma)**  
-
+- 🏅 **Salesforce AI Associate Certified **  
 ---
 
 ## 💡 Key Strengths & Interests
-
 ✅ Passionate about **backend development and problem-solving**.  
 ✅ Strong expertise in **Laravel, Salesforce, and API integrations**.  
 ✅ Constantly learning new **technologies & optimization techniques**.  
@@ -98,7 +50,7 @@ Hello! I'm **Shridhar Patil**, a **Backend Developer & Technical Consultant** wi
 
 ## 📬 Let's Connect!
 
-🔗 **GitHub**: [ShridharPatil](https://github.com/)  
+🔗 **GitHub**: --
 
 📧 **Email**: --  
 
