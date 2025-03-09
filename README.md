@@ -11,7 +11,7 @@
 
 Hello! I'm Shridhar Patil, a Full Stack Web Developer at Maven Infotech, specializing in PHP Laravel, JavaScript, and Salesforce. I have a strong passion for backend development, API integrations, and problem-solving.
 
-At Maven Infotech, I work on scalable web applications, optimizing performance, and developing end-to-end solutions. My expertise lies in Laravel, React.js, and Salesforce, where I focus on building efficient systems that enhance user experiences.
+At Maven Infotech, I work on scalable web applications, optimizing performance, and developing end-to-end solutions. My expertise lies in Laravel,PHP, Backed development  where I focus on building efficient systems that enhance user experiences.
 
 🚀 I thrive on solving complex technical challenges, writing clean and optimized code, and continuously learning new technologies to improve business processes.
 
