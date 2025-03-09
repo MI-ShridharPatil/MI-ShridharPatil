@@ -9,36 +9,11 @@
 
 ## 🔥 About Me
 
-Hello! I'm **Shridhar Patil**, a **Backend Developer & Technical Consultant** with a deep passion for **PHP Laravel, Salesforce, and problem-solving**. I specialize in building efficient, scalable, and high-performance backend systems that power seamless user experiences. 
+Hello! I'm Shridhar Patil, a Full Stack Web Developer at Maven Infotech, specializing in PHP Laravel, JavaScript, and Salesforce. I have a strong passion for backend development, API integrations, and problem-solving.
 
-💡 I thrive on **solving complex technical challenges**, optimizing systems, and integrating business solutions to improve efficiency.  
+At Maven Infotech, I work on scalable web applications, optimizing performance, and developing end-to-end solutions. My expertise lies in Laravel, React.js, and Salesforce, where I focus on building efficient systems that enhance user experiences.
 
-🚀 Currently, I am exploring advanced **Salesforce development** while continuing to enhance my expertise in **Laravel** and backend system architecture.
-
-## 🛠 Skills & Technologies
-
-### **👨‍💻 Backend Development**
-- 🔹 **PHP | Laravel | Core PHP | Backend Development **  
-- 🔹 **API Development & Integration**  
-- 🔹 **SQL | Database Optimization**  
-
-### **⚡ Salesforce Development**
-- 🔹 **Apex | Lightning Web Components (LWC) | Visualforce**  
-- 🔹 **SOSL | Apex Data Loader | Workflow Automation**  
-
-
-### **📌 Problem-Solving & Methodologies**
-- 🔹 **Complex Debugging & Optimization**  
-- 🔹 **Agile | Software Development Lifecycle (SDLC)**  
-- 🔹 **Data Structures & Algorithms**  
-
----
-
-## 🎓 Certifications & Achievements
-
-- 🏅 **Salesforce Platform Developer I** *(In Progress)*  
-- 🏅 **Salesforce AI Associate Certified **  
----
+🚀 I thrive on solving complex technical challenges, writing clean and optimized code, and continuously learning new technologies to improve business processes.
 
 ## 💡 Key Strengths & Interests
 ✅ Passionate about **backend development and problem-solving**.  
